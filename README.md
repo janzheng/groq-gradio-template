@@ -1,6 +1,12 @@
 # Groq + Gradio Chat Example
 
-**A lightweight example demonstrating how to build a chatbot interface using Gradio with Groq's API for fast AI inference.**
+[Gradio](https://gradio.app) is a powerful library for creating web interfaces for your applications that enables you to quickly build interactive demos for your fast Groq apps with features such as:
+
+- **Interface Builder:** Create polished UIs with just a few lines of code, supporting text, images, audio, and more
+- **Interactive Demos:** Build demos that showcase your LLM applications with multiple input/output components
+- **Shareable Apps:** Deploy and share your Groq-powered applications with a single click
+
+This repository is a lightweight example demonstrating how to build a chatbot interface using Gradio with Groq's API for fast AI inference.
 
 ## Overview
 
