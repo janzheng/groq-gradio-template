@@ -1,0 +1,11 @@
+[project]
+name = "groq-gradio-example"
+version = "0.1.0"
+description = "A lightweight example demonstrating how to build a chatbot interface using Gradio with Groq's API for fast AI inference."
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "dotenv>=0.9.9",
+    "groq>=0.28.0",
+    "groq-gradio>=0.0.2",
+]
