@@ -86,7 +86,10 @@ gr.load(
 Common Groq models you can use:
 - `llama-3.3-70b-versatile` - Good for general tasks
 - `llama-3.1-8b-instant` - Faster responses
-- `mixtral-8x7b-32768` - Handles longer conversations
+- `deepseek-r1-distill-llama-70b` - DeepSeek distilled model (131k context)
+- `meta-llama/llama-4-maverick-17b-128e-instruct` - Meta Llama 4 Maverick (131k context)
+- `meta-llama/llama-4-scout-17b-16e-instruct` - Meta Llama 4 Scout (131k context)
+- Check out our [other models](https://console.groq.com/docs/models) 
 
 ## Environment Setup
 
