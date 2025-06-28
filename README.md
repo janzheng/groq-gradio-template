@@ -39,7 +39,7 @@ This is a simple chat application that shows how to integrate Groq's API with Gr
 1. **Clone the repository**
    ```bash
    gh repo clone janzheng/groq-gradio-template
-   cd groq-gradio
+   cd groq-gradio-template
    ```
 
 2. **Create a `.env` file** with your API key:
