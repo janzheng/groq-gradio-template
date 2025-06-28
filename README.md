@@ -38,7 +38,7 @@ This is a simple chat application that shows how to integrate Groq's API with Gr
 
 1. **Clone the repository**
    ```bash
-   git clone [your-repo-url]
+   gh repo clone janzheng/groq-gradio-template
    cd groq-gradio
    ```
 
