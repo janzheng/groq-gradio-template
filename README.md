@@ -42,17 +42,22 @@ This is a simple chat application that shows how to integrate Groq's API with Gr
    cd groq-gradio-template
    ```
 
-2. **Create a `.env` file** with your API key:
+2. **Install dependencies**
+   ```bash
+   uv sync  # Creates .venv and installs dependencies
+   ```
+
+3. **Create a `.env` file** with your API key:
    ```env
    GROQ_API_KEY=your-groq-api-key-here
    ```
 
-3. **Run the application**
+4. **Run the application**
    ```bash
-   uv run python main.py
+   uv run main.py
    ```
 
-4. **Open your browser** to the URL shown in the terminal (usually `http://127.0.0.1:7860`)
+5. **Open your browser** to the URL shown in the terminal (usually `http://127.0.0.1:7860`)
 
 ## Usage
 
